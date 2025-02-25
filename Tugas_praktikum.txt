@@ -1,0 +1,21 @@
+jelaskan apa yang dimaksud dengan dokumen root?
+    jawab = Dokumen root adalah file utama yang dimuat oleh server web ketika seseorang mengakses sebuah situs web melalui nama domain atau URL dasarnya (misalnya, www.contoh.com).
+Pada apache web server, apakah dokumen root harus terletak dalam direktori
+C:\xampp\htdocs ? Jelaskan jawaban anda
+    jawab = Tidak,tidak harus terletak di dalam direktori tersebut, karena direktori tersebut adalah lokasi default untuk server apache yang diinstal melalui XAMPP di windows.
+Jelaskan apa yang dimaksud dengan perintah git : init, clone, remote, add, commit, push
+dan checkout
+    jawab = 
+    git init: Perintah ini digunakan untuk membuat repositori Git baru pada direktori lokal.
+    git clone: Perintah ini digunakan untuk mengkloning repositori dari remote ke lokal. Ini berarti Git akan menyalin seluruh riwayat versi proyek beserta file dan folder yang ada ke dalam komputer lokal kita.
+    git remote: Perintah ini digunakan untuk mengelola repositori remote yang terhubung dengan repositori lokal. Perintah ini dapat digunakan untuk menambah, menghapus, atau melihat konfigurasi repositori remote.
+    git add: Perintah ini digunakan untuk menambahkan perubahan (file baru, file yang dimodifikasi) ke staging area, yang berarti file tersebut siap untuk dikomit.  
+    git commit: Perintah ini digunakan untuk menyimpan snapshot dari file yang ada dalam repositori lokal.
+    git push: Perintah ini digunakan untuk mengirimkan commit yang telah dibuat di repositori lokal ke repositori remote.
+    git checkout: Perintah ini digunakan untuk beralih antar cabang (branch) dalam repositori Git. Perintah ini juga bisa digunakan untuk memulihkan file yang hilang atau kembali ke versi tertentu dari file atau cabang.
+Jelaskan perbedaan antara GitHub dan GitLab
+    jawab = Github adalah platform untuk menyimpan repositori git secara online sedangkan Gitlab adalah platform yang bersifat open source dan GitLab memiliki versi yang dapat dihosting sendiri
+Apa bedanya variable user dengan variable system?
+    jawab = variabel user bersifat lebih personal dan hanya berhubungan dengan satu pengguna, sementara variabel system bersifat lebih umum dan memengaruhi seluruh sistem dan semua pengguna.
+Apa persamaan variable system dengan variable constant ?
+    jawab = Persamaan antara variabel sistem dan variabel konstan terletak pada keduanya digunakan untuk mendefinisikan elemen-elemen dalam suatu model atau sistem.
