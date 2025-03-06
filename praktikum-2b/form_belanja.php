@@ -31,7 +31,7 @@
                 </header>
             </div>
             <div class="col-8 align-middle">
-                <form method="POST" action="">
+                <form method="POST" action="form_belanja.php">
                     <div class="form-group row text-end mt-3">
                         <label for="nama" class="col-4 col-form-label">Customer</label>
                         <div class="col-8">
